@@ -1,4 +1,4 @@
-# Story Indicator
+# Group Grid View
 A GridView that allows you to group list items and support headers like iOS UICollectionView section.
 
 ## Features
@@ -6,6 +6,7 @@ A GridView that allows you to group list items and support headers like iOS UICo
 * Grid Items can be grouped.
 * Support headers and footers for each group.
 * All fields from GridView.builder constructor available.
+
   ![Alt Text](https://images.viblo.asia/5233b34d-8fc3-47f1-91ff-e31929fbc2a9.gif)
 ## Installing
 
